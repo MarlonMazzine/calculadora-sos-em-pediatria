@@ -17,6 +17,7 @@
     "fs": "^0.0.1-security",
     "ignore-styles": "^5.0.1",
     "jquery": "^3.5.0",
+    "path": "^0.12.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1",
