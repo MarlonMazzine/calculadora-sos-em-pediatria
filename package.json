@@ -8,6 +8,7 @@
     "@babel/preset-env": "^7.9.6",
     "@babel/preset-react": "^7.9.4",
     "@babel/register": "^7.9.0",
+    "bootstrap": "^4.4.1",
     "bulma": "^0.8.2",
     "express": "^4.17.1",
     "ignore-styles": "^5.0.1"
