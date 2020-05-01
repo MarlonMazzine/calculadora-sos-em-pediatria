@@ -12,7 +12,8 @@
     "bulma": "^0.8.2",
     "express": "^4.17.1",
     "ignore-styles": "^5.0.1",
-    "jquery": "^3.5.0"
+    "jquery": "^3.5.0",
+    "react-tooltip": "^4.2.5"
   },
   "scripts": {
     "start": "node server/index.js"
