@@ -1,6 +1,6 @@
 {
   "name": "calculadora-sos-em-pediatria",
-  "version": "1.0.0",
+  "version": "1.0.7",
   "description": "calculadora-sos-em-pediatria",
   "main": "server/index.js",
   "license": "MIT",
