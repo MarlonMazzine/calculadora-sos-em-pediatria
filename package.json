@@ -11,7 +11,8 @@
     "bootstrap": "^4.4.1",
     "bulma": "^0.8.2",
     "express": "^4.17.1",
-    "ignore-styles": "^5.0.1"
+    "ignore-styles": "^5.0.1",
+    "jquery": "^3.5.0"
   },
   "scripts": {
     "start": "node server/index.js"
